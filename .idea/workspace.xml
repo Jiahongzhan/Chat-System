@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf430c80-8e27-40e9-af5f-2e23ca91ed6c" name="Default Changelist" comment="client">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_3a.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_3a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_3b.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_3b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_4a.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_4a.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_4b.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_4b.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Intergration/capstone_utility.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/intergration/capstone_utility.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.18.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BKBKQ4swMCaP1RF4F0ZI3cenMC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/Intergration" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Local Project\SpartanRPC\test\Intergration" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\test\deploy" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\deploy" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Local Project\SpartanRPC\test\Intergration" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\test" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\deploy" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\main" />
+      <recent name="C:\Local Project\Distributed-RPC-Framework\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build capstone 4b">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/Intergration/capstone_utility.go|$PROJECT_DIR$/test/Intergration/capstone_1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 1" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 2" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 3a" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_3a.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 3b" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_3b.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 4a" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_4a.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capstone 4b" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/Intergration" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/intergration/capstone_utility.go|$PROJECT_DIR$/test/intergration/capstone_4b.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test all" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem -test.benchtime=0.50s" />
+      <kind value="DIRECTORY" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$/test/benchmark" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test client" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/client_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test coder" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/coder_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test json_coder" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$/test/benchmark/coder_benchmark_test.go" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/json_coder_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test load balancer" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/load_balancer_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test registry" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/registry_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test server" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/server_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go bench test service" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/benchmark" />
+      <parameters value="-test.benchmem" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/benchmark/benchmark_test_utility.go|$PROJECT_DIR$/test/benchmark/service_benchmark_test.go" />
+      <framework value="gobench" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test all" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="DIRECTORY" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$/test/unit" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test client" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework/client" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/client_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test coder" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/coder_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test json_coder" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/json_coder_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test load_balancer" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/load_balancer_unit_test.go|$PROJECT_DIR$/test/unit/unit_test_utility.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test registry" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/registry_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test server" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/server_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go unit test service" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpartanRPC" />
+      <working_directory value="$PROJECT_DIR$/test/unit" />
+      <kind value="FILE" />
+      <package value="Distributed-RPC-Framework" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/unit/unit_test_utility.go|$PROJECT_DIR$/test/unit/service_unit_test.go" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build capstone 1" />
+      <item itemvalue="Go Build.go build capstone 2" />
+      <item itemvalue="Go Build.go build capstone 3a" />
+      <item itemvalue="Go Build.go build capstone 3b" />
+      <item itemvalue="Go Build.go build capstone 4a" />
+      <item itemvalue="Go Build.go build capstone 4b" />
+      <item itemvalue="Go Test.go unit test all" />
+      <item itemvalue="Go Test.go unit test coder" />
+      <item itemvalue="Go Test.go unit test json_coder" />
+      <item itemvalue="Go Test.go unit test service" />
+      <item itemvalue="Go Test.go unit test server" />
+      <item itemvalue="Go Test.go unit test client" />
+      <item itemvalue="Go Test.go unit test load_balancer" />
+      <item itemvalue="Go Test.go unit test registry" />
+      <item itemvalue="Go Test.go bench test all" />
+      <item itemvalue="Go Test.go bench test coder" />
+      <item itemvalue="Go Test.go bench test json_coder" />
+      <item itemvalue="Go Test.go bench test service" />
+      <item itemvalue="Go Test.go bench test load balancer" />
+      <item itemvalue="Go Test.go bench test registry" />
+      <item itemvalue="Go Test.go bench test client" />
+      <item itemvalue="Go Test.go bench test server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1656660190663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656660190663</updated>
+      <workItem from="1656660195914" duration="4144000" />
+      <workItem from="1657065652952" duration="2454000" />
+      <workItem from="1657157892304" duration="3280000" />
+      <workItem from="1657334649945" duration="24796000" />
+      <workItem from="1657437084929" duration="6351000" />
+      <workItem from="1657499492746" duration="24486000" />
+      <workItem from="1658711129953" duration="9672000" />
+      <workItem from="1658722774501" duration="20253000" />
+      <workItem from="1659055661449" duration="14148000" />
+      <workItem from="1659147552186" duration="3925000" />
+      <workItem from="1659222320742" duration="245000" />
+      <workItem from="1659222606544" duration="4521000" />
+      <workItem from="1659230782381" duration="1373000" />
+      <workItem from="1659392801108" duration="3394000" />
+      <workItem from="1662262503593" duration="5384000" />
+      <workItem from="1663471289571" duration="1563000" />
+      <workItem from="1663611878951" duration="10443000" />
+      <workItem from="1663706916845" duration="1705000" />
+      <workItem from="1663964807775" duration="640000" />
+      <workItem from="1666054724466" duration="3118000" />
+      <workItem from="1666057889802" duration="7138000" />
+      <workItem from="1669086275118" duration="22651000" />
+      <workItem from="1669182452821" duration="7352000" />
+      <workItem from="1669250324903" duration="27389000" />
+      <workItem from="1669285606830" duration="54000" />
+      <workItem from="1669336319431" duration="26585000" />
+      <workItem from="1669368619218" duration="8857000" />
+      <workItem from="1669422411410" duration="6013000" />
+      <workItem from="1669439518481" duration="1156000" />
+      <workItem from="1669441221463" duration="11046000" />
+      <workItem from="1669460932144" duration="630000" />
+      <workItem from="1669510677655" duration="3027000" />
+      <workItem from="1669533347254" duration="11088000" />
+      <workItem from="1669547432922" duration="3878000" />
+      <workItem from="1669598976506" duration="5868000" />
+      <workItem from="1669686242505" duration="4582000" />
+      <workItem from="1669864095590" duration="27412000" />
+      <workItem from="1669934519813" duration="4438000" />
+      <workItem from="1669943033380" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="client" />
+    <option name="LAST_COMMIT_MESSAGE" value="client" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
